@@ -4,12 +4,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaghaniharshh&label=Profile%20views&color=0e75b6&style=flat" alt="vaghaniharshh" />
+  <img src="https://komarev.com/ghpvc/?username=HarshhVaghani&label=Profile%20views&color=0e75b6&style=flat" alt="vaghaniharshh" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaghaniharshh&theme=tokyonight&margin-w=10&margin-h=10" alt="vaghaniharshh" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HarshhVaghani&theme=tokyonight&margin-w=10&margin-h=10" alt="vaghaniharshh" />
   </a>
 </p>
 
@@ -55,7 +55,7 @@
 ### 🔥 GitHub Streak  
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vaghaniharshh&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HarshhVaghani&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 
